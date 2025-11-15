@@ -11,6 +11,8 @@ readme = "README.md"
 dependencies = [
     "jupyter>=1.1.1",
     "pandas>=2.3.3",
+    "pyarrow>=22.0.0",
+    "scikit-learn>=1.7.2",
 ]
 
 [project.urls]
